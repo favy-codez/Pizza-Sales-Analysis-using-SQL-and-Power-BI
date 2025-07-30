@@ -63,7 +63,8 @@ Whether you're a small business owner, analyst, or student — this project show
 
 If you found this project helpful or want to collaborate, feel free to connect:
 [**Connect with me**](https://linktr.ee/ezelioragodsfavour)
-
+---
+[**Link to my interactive dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZGI1ZDZmYzEtYTg2My00ODU5LWI1ODgtYWRiZGE0MDlhNjY3IiwidCI6ImI0MzQ1NGNkLTM2NGQtNDdiOS04NTJmLWY2YTFlNDFlMjg1ZSJ9)
 ---
 
 
